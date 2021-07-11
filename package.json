@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^9.5.0",
+    "limiter": "^1.1.5",
+    "mjml": "^4.10.0",
+    "nodemailer": "^6.5.0",
+    "snoowrap": "^1.22.0"
+  },
+  "name": "sales",
+  "version": "1.0.0",
+  "description": "A sales tool for bulk messaging redditors",
+  "main": "sales.js",
+  "author": "Jabali",
+  "license": "MIT",
+  "private": true
+}
